@@ -8,6 +8,12 @@ import Stats from "./Stats";
 import Footer from "./Footer";
 import Testimonials from "./Testimonials";
 import Hero from "./Hero";
+import AboutMe from "./AboutMe";
+import Education from "./Education";
+import ProgrammingSkills from "./ProgrammingSkills";
+import Certification from "./Certification";
+import Projects from "./Projects";
+import ContactMe from "./ContactMe";
 
 export {
   Navbar,
@@ -20,4 +26,10 @@ export {
   Footer,
   Testimonials,
   Hero,
+  AboutMe,
+  Education,
+  ProgrammingSkills,
+  Certification,
+  Projects,
+  ContactMe
 };
