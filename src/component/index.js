@@ -7,7 +7,6 @@ import CTA from "./CTA";
 import Stats from "./Stats";
 import Footer from "./Footer";
 import Testimonials from "./Testimonials";
-import Hero from "./Hero";
 import AboutMe from "./AboutMe";
 import Education from "./Education";
 import ProgrammingSkills from "./ProgrammingSkills";
@@ -25,7 +24,6 @@ export {
   Stats,
   Footer,
   Testimonials,
-  Hero,
   AboutMe,
   Education,
   ProgrammingSkills,
