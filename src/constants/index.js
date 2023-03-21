@@ -3,21 +3,29 @@ import { people01, people02, people03, facebook, instagram, linkedin, twitter, a
 
 export const navLinks = [
   {
-    id: "home",
-    title: "Home",
+    id: "aboutme",
+    title: "About Me",
   },
   {
-    id: "features",
-    title: "Features",
+    id: "education",
+    title: "Education",
   },
   {
-    id: "product",
-    title: "Product",
+    id: "programmingskills",
+    title: "Programming Skills",
   },
   {
-    id: "clients",
-    title: "Clients",
+    id: "certification",
+    title: "Certification",
   },
+  {
+    id: "projects",
+    title: "Projects",
+  },
+  {
+    id: "contactme",
+    title: "Contact Me",
+  }
 ];
 
 export const features = [
